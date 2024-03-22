@@ -1,14 +1,30 @@
 <!DOCTYPE>
 <html>
 <head>
-<title>🌟𝗞𝗜𝗗𝗦 𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧🌟</title>
-<script type="text/javascript">
-window.location = "https://t.me/tataplayonline"
-</script>
+<title> @M3u World (ꜱᴀɪ ꜱʀɪɴɪᴠᴀꜱ)</title>
+  <link rel="icon" href="https://graph.org/file/56499d4a2648bd030fd79.jpg" type="image/x-icon">
+</head>
+
+  <script>// Get a random number between 0 and 1
+    const randomNum = Math.random();
+
+    // Define your two URLs
+    const url1 = "https://whatsapp.com/channel/0029VaKU54rHQbRyiU8vGt0C";
+    const url2 = "https://t.me/M3uWorld";
+
+    // Determine which URL to redirect based on the random number
+    if (randomNum < 0.2) {
+      window.location.href = url1;
+    } else {
+      window.location.href = url2;
+    }
+
+  </script>
 </head>
 </html>
-
-<script>
+#EXTINF:-2 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠" tvg-logo="https://graph.org/file/56499d4a2648bd030fd79.jpg" ,https://t.me/M3uWorld
+https://t.me/M3uWorld
+#EXTM3U × Sai Srinivas
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK TAMIL
 http://tgaadi-web.tech/api/tg_aadi.php?tv=9186
